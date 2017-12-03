@@ -10,6 +10,7 @@ public class ScriptSpike : MonoBehaviour {
     public bool isActivate;
     public AudioSource audioSource;
     public AudioClip spikeSound;
+    public float speed = 2f;
     // Use this for initialization
     void Start () {
         audioSource = GetComponent<AudioSource>();
@@ -21,9 +22,9 @@ public class ScriptSpike : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         if(isActivate)
-            Timer += 0.1f;
+            Timer += speed* Time.deltaTime;
         else
-            Timer -= 0.1f;
+            Timer -= speed*Time.deltaTime;
 
         if (Timer > 1f + delay)
         {
