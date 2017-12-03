@@ -4329,32 +4329,11 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 400002, guid: f6123c52bcf3d8e41b9383d5aae939ac, type: 3}
   m_PrefabInternal: {fileID: 2077657878}
---- !u!1 &461449377 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1108725031027334, guid: afd21178cefa87a4499828e6dda7b236,
-    type: 2}
-  m_PrefabInternal: {fileID: 362001666}
 --- !u!4 &461449378 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4268525484874240, guid: afd21178cefa87a4499828e6dda7b236,
     type: 2}
   m_PrefabInternal: {fileID: 362001666}
---- !u!114 &461449379
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 461449377}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a395537bbdb650646987d29d9805000e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  door: {fileID: 609665014}
-  speedRotator: 100
-  textNbPieces: {fileID: 909768727}
-  audioSource: {fileID: 0}
-  coinSound: {fileID: 0}
 --- !u!1 &467365614
 GameObject:
   m_ObjectHideFlags: 0
@@ -6135,32 +6114,11 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5cb9a3cb69ca39d44ad25d66ef9f4abd, type: 3}
   m_IsPrefabParent: 0
---- !u!1 &630417168 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1108725031027334, guid: afd21178cefa87a4499828e6dda7b236,
-    type: 2}
-  m_PrefabInternal: {fileID: 1404798103}
 --- !u!4 &630417169 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4268525484874240, guid: afd21178cefa87a4499828e6dda7b236,
     type: 2}
   m_PrefabInternal: {fileID: 1404798103}
---- !u!114 &630417170
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 630417168}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a395537bbdb650646987d29d9805000e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  door: {fileID: 609665014}
-  speedRotator: 100
-  textNbPieces: {fileID: 909768727}
-  audioSource: {fileID: 0}
-  coinSound: {fileID: 0}
 --- !u!1001 &633308479
 Prefab:
   m_ObjectHideFlags: 0
@@ -7415,32 +7373,11 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: ae9d2cce92da4ea4eb57d2b4488f9617, type: 3}
   m_PrefabInternal: {fileID: 1893611594}
---- !u!1 &765521157 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1108725031027334, guid: afd21178cefa87a4499828e6dda7b236,
-    type: 2}
-  m_PrefabInternal: {fileID: 1476324241}
 --- !u!4 &765521158 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4268525484874240, guid: afd21178cefa87a4499828e6dda7b236,
     type: 2}
   m_PrefabInternal: {fileID: 1476324241}
---- !u!114 &765521159
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 765521157}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a395537bbdb650646987d29d9805000e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  door: {fileID: 609665014}
-  speedRotator: 100
-  textNbPieces: {fileID: 909768727}
-  audioSource: {fileID: 0}
-  coinSound: {fileID: 0}
 --- !u!4 &767833281 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 360543bc63bfaab4ba3e8728485e58fd, type: 3}
@@ -7587,32 +7524,11 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 49dc1f434ebeafd40ab60b8e9b61aec7, type: 3}
   m_IsPrefabParent: 0
---- !u!1 &788596598 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1108725031027334, guid: afd21178cefa87a4499828e6dda7b236,
-    type: 2}
-  m_PrefabInternal: {fileID: 576170818}
 --- !u!4 &788596599 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4268525484874240, guid: afd21178cefa87a4499828e6dda7b236,
     type: 2}
   m_PrefabInternal: {fileID: 576170818}
---- !u!114 &788596600
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 788596598}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a395537bbdb650646987d29d9805000e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  door: {fileID: 609665014}
-  speedRotator: 100
-  textNbPieces: {fileID: 909768727}
-  audioSource: {fileID: 0}
-  coinSound: {fileID: 0}
 --- !u!1 &791295617
 GameObject:
   m_ObjectHideFlags: 0
